@@ -1,5 +1,5 @@
 """
-Askeri İşaretler PNG → SVG Dönüştürücü
+PNG → SVG Dönüştürücü
 Inkscape motoru ile çalışır — en yüksek kalite.
 
 Kurulum:
