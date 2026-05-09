@@ -1,7 +1,7 @@
 @echo off
-title Askeri Isaretler PNG-SVG Donusturucu
+title PNG-SVG Donusturucu
 echo.
-echo  Askeri Isaretler PNG-SVG Donusturucu baslatiliyor...
+echo  PNG-SVG Donusturucu baslatiliyor...
 echo.
 
 REM Python kontrolu
